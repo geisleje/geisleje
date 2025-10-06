@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeremia geisler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremia geisler" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jeremia geisler](https://de.linkedin.com/in/jeremia-geisler-a9a388337)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremia geisler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
