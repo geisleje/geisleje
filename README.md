@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geisleje&show_icons=true&locale=en&layout=compact" alt="geisleje" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geisleje&show_icons=true&locale=en" alt="geisleje" /></p>
+
+I only upload finished Projects here, if you want to see (some) of the Progress oder smaller things I wrote you can check up [jethi05](https://www.github.com/jethi05)
